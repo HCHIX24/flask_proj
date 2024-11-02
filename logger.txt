@@ -1,0 +1,6 @@
+##backend: 
+##myenv then python app.py to run
+#books crud works
+#users crud works
+#USER UPDATE: get user by id then put new info in body working with thunder to successfully updated
+#WORKING NOW: borrow create
